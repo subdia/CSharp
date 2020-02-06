@@ -1,0 +1,9 @@
+/home/harduser1/Projects/TestToDoList/TestToDoList/bin/Debug/TestToDoList.exe
+/home/harduser1/Projects/TestToDoList/TestToDoList/bin/Debug/TestToDoList.pdb
+/home/harduser1/Projects/TestToDoList/TestToDoList/obj/x86/Debug/TestToDoList.csprojAssemblyReference.cache
+/home/harduser1/Projects/TestToDoList/TestToDoList/obj/x86/Debug/TestToDoList.exe
+/home/harduser1/Projects/TestToDoList/TestToDoList/obj/x86/Debug/TestToDoList.pdb
+/Users/denischerevko/VSWorkspace/TestToDoList/TestToDoList/bin/Debug/TestToDoList.exe
+/Users/denischerevko/VSWorkspace/TestToDoList/TestToDoList/bin/Debug/TestToDoList.pdb
+/Users/denischerevko/VSWorkspace/TestToDoList/TestToDoList/obj/x86/Debug/TestToDoList.exe
+/Users/denischerevko/VSWorkspace/TestToDoList/TestToDoList/obj/x86/Debug/TestToDoList.pdb

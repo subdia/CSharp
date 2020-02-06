@@ -1,0 +1,5 @@
+/Users/denischerevko/VSWorkspace/TestToDoList/TestToDoList/bin/Debug/TestToDoList.exe
+/Users/denischerevko/VSWorkspace/TestToDoList/TestToDoList/bin/Debug/TestToDoList.pdb
+/Users/denischerevko/VSWorkspace/TestToDoList/TestToDoList/obj/Debug/TestToDoList.csprojAssemblyReference.cache
+/Users/denischerevko/VSWorkspace/TestToDoList/TestToDoList/obj/Debug/TestToDoList.exe
+/Users/denischerevko/VSWorkspace/TestToDoList/TestToDoList/obj/Debug/TestToDoList.pdb

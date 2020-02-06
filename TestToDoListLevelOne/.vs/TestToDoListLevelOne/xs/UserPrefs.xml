@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{DE589C6E-5090-42E0-9CBB-929942B112C9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestToDoList/ParseInput.cs">
+    <Files>
+      <File FileName="TestToDoList/Program.cs" Line="18" Column="1" />
+      <File FileName="TestToDoList/ParseInput.cs" Line="58" Column="54" />
+      <File FileName="TestToDoList/WindowView.cs" Line="12" Column="33" />
+      <File FileName="TestToDoList/CommandResponse.cs" Line="51" Column="18" />
+      <File FileName="TestToDoList/DataStorage.cs" Line="9" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestToDoListLevelOne" expanded="True" selected="True">
+            <Node name="TestToDoListLevelOne" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestToDoListLevelOne PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/harduser1/Projects/TestToDoListLevelOne/TestToDoList/CommandResponse.cs" relfile="TestToDoList/CommandResponse.cs" line="20" column="51" />
+      <Breakpoint file="/home/harduser1/Projects/TestToDoListLevelOne/TestToDoList/CommandResponse.cs" relfile="TestToDoList/CommandResponse.cs" line="51" column="1" />
+      <Breakpoint file="/home/harduser1/Projects/TestToDoListLevelOne/TestToDoList/ParseInput.cs" relfile="TestToDoList/ParseInput.cs" line="25" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

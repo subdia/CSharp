@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{DE589C6E-5090-42E0-9CBB-929942B112C9}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestToDoListLevelTwo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestToDoList/DataStorage.cs">
+    <Files>
+      <File FileName="TestToDoList/ParseInput.cs" Line="50" Column="40" />
+      <File FileName="TestToDoList/Program.cs" Line="17" Column="27" />
+      <File FileName="TestToDoList/DataStorage.cs" Line="58" Column="61" />
+      <File FileName="TestToDoList/DataStorageFile.cs" Line="9" Column="1" />
+      <File FileName="TestToDoList/CommandResponse.cs" Line="179" Column="47" />
+      <File FileName="TestToDoList/WindowView.cs" Line="19" Column="73" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestToDoListLevelTwo" expanded="True">
+            <Node name="TestToDoListLevelTwo" expanded="True">
+              <Node name="DataStorage.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/harduser1/git/CSharp/TestToDoListLevelTwo/TestToDoList/DataStorage.cs" relfile="TestToDoList/DataStorage.cs" line="70" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,4 @@
+/home/harduser1/git/CSharp/TestToDoListLevelTwo/TestToDoList/bin/Debug/TestToDoList.exe
+/home/harduser1/git/CSharp/TestToDoListLevelTwo/TestToDoList/bin/Debug/TestToDoList.pdb
+/home/harduser1/git/CSharp/TestToDoListLevelTwo/TestToDoList/obj/x86/Debug/TestToDoList.exe
+/home/harduser1/git/CSharp/TestToDoListLevelTwo/TestToDoList/obj/x86/Debug/TestToDoList.pdb

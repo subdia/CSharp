@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestToDoListLevelOne" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>_PreviousCmd</Value>
+          <Value>_CurrentCmd</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestToDoListLevelOne PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/harduser1/git/CSharp/TestToDoListLevelTwo/TestToDoList/CommandResponse.cs" relfile="TestToDoList/CommandResponse.cs" line="20" column="51" />
+      <Breakpoint file="/home/harduser1/git/CSharp/TestToDoListLevelTwo/TestToDoList/CommandResponse.cs" relfile="TestToDoList/CommandResponse.cs" line="51" column="1" />
+      <Breakpoint file="/home/harduser1/git/CSharp/TestToDoListLevelTwo/TestToDoList/ParseInput.cs" relfile="TestToDoList/ParseInput.cs" line="25" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

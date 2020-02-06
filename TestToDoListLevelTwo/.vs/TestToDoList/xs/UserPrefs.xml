@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{DE589C6E-5090-42E0-9CBB-929942B112C9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestToDoList/DataStorage.cs">
+    <Files>
+      <File FileName="TestToDoList/Program.cs" Line="7" Column="9" />
+      <File FileName="TestToDoList/ParseInput.cs" Line="6" Column="1" />
+      <File FileName="TestToDoList/WindowView.cs" Line="8" Column="58" />
+      <File FileName="TestToDoList/CommandResponse.cs" Line="6" Column="9" />
+      <File FileName="TestToDoList/DataStorage.cs" Line="3" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestToDoList" expanded="True">
+            <Node name="TestToDoList" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="DataStorage.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestToDoList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
